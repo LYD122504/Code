@@ -18,6 +18,7 @@ K&R 的经典书籍,作为已有C语言基础的本人而言,还是颇有收获,
 - 第5章: [复杂声明](./ANSI/Chapter5/ANSI-complicated.md)
 - 第6章: [字节对齐](/ANSI/Chapter6/ANSI-Byte.md) [位域和柔性数组](/ANSI/Chapter6/ANSI-BitFields.md)
 - 第7章: [输入和输出](/ANSI/Chapter7/ANSI-Chapter7.md)
+- 第8章: [GCC编译指令](/ANSI/Chapter8/ANSI-gcc.md) [UNIX系统](/ANSI/Chapter8/ANSI-UNIX.md)
 
 ## 更新日程
 
@@ -26,3 +27,4 @@ K&R 的经典书籍,作为已有C语言基础的本人而言,还是颇有收获,
 - 2024.11.26 上传Chapter1的示例，Chapter2-4的示例和课后习题的代码，部分第五章的代码（其中Ch5_E12可能不会做，看不懂题目）
 - 2024.12.17 上传Chapter5的全部代码,后续会记录一下自己对某些课后习题的理解和答案
 - 2025.06.05 上传Chapter6和Chapter7的全部代码和笔记
+- 2025.08.22 上传Chapter8的代码和笔记
